@@ -1,0 +1,7 @@
+.menuIcon {
+    transition: .1s;
+}
+
+.menuIcon:hover {
+    color: #212121;
+}

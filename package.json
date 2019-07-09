@@ -3,8 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "masonry-layout": "^4.2.2",
     "react": "^16.8.6",
+    "react-clipboard.js": "^2.0.13",
+    "react-color": "https://github.com/Omaredu/modify-react-color/tarball/master",
     "react-dom": "^16.8.6",
+    "react-favicon": "0.0.16",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -25,7 +35,11 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 safari version",
+      "last 1 edge version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-macros": "^2.6.1"
   }
 }

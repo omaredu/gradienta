@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "colorOne" : "#7F00FF",
+        "colorTwo" : "#E100FF",
+        "loves" : 10
+    },
+    {
+        "id": 2,
+        "colorOne": "#FEE140",
+        "colorTwo": "#FA709A",
+        "loves": 25
+    },
+    {
+        "id": 3,
+        "colorOne": "#004a2f",
+        "colorTwo": "#002f35",
+        "loves": 32
+    },
+    {
+        "id": 4,
+        "colorOne": "#ffa323",
+        "colorTwo": "#ff6337",
+        "loves": 19
+    },
+    {
+        "id": 5,
+        "colorOne": "#ff6a00",
+        "colorTwo": "#ee0979",
+        "loves": 49
+    },
+    {
+        "id": 6,
+        "colorOne": "#F2994A",
+        "colorTwo": "#F2C94C",
+        "loves": 12
+    },
+    {
+        "id": 7,
+        "colorOne": "#56CCF2",
+        "colorTwo": "#2F80ED",
+        "loves": 21
+    },
+    {
+        "id": 8,
+        "colorOne": "#B206B0",
+        "colorTwo": "#E41749",
+        "loves": 34
+    },
+    {
+        "id": 9,
+        "colorOne": "#930077",
+        "colorTwo": "#090088",
+        "loves": 23
+    },
+    {
+        "id": 10,
+        "colorOne": "#D9D872",
+        "colorTwo": "#009975",
+        "loves": 15
+    },
+    {
+        "id": 11,
+        "colorOne": "#e14594",
+        "colorTwo": "#2b3595",
+        "loves": 4
+    },
+    {
+        "id": 12,
+        "colorOne": "#ffc107",
+        "colorTwo": "#8bc34a",
+        "loves": 18
+    }
+]

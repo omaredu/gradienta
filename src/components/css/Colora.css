@@ -1,0 +1,43 @@
+.colorContainer {
+    margin: .3em;
+    overflow: hidden;
+    display: flex;
+    padding: .25em .5em .25em .5em;
+    border-radius: 5em;
+    width: 1em;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.colorContainer:hover {
+    width: 5.8em;
+}
+
+.colorContainer .colorShow {
+    height: 1.05em;
+    width: 1em;
+    border-radius: 50%;
+    margin-top: .25em;
+    position: absolute;
+}
+
+.colorContainer .colorText {
+    font-size: .9em;
+    margin: 1px 3px 1px 1.7em;
+    opacity: 0;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.colorContainer:hover .colorText {
+    opacity: 1;
+}
+
+.clipboard {
+    border: none;
+    background-color: transparent;
+    height: auto;
+    width: auto;
+    border-radius: 5em;
+}
+

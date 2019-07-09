@@ -1,0 +1,13 @@
+.buttonColora {
+    margin: 1em;
+    padding: 1em 1.5em 1em 1.5em;
+    position: absolute;
+    width: auto;
+    color: #9e9e9e;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.buttonColora:hover {
+    color: #212121;
+}

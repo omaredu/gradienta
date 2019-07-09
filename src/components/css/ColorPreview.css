@@ -1,0 +1,29 @@
+.colorPreviewMini {
+    height: 1.5em;
+    width: 1.5em;
+    margin: .25em;
+    border-radius: 50%;
+    transition: .3s;
+}
+
+.colorPreviewMiniSelect {
+    height: 2em;
+    width: 2em;
+    border-radius: 50%;
+    transition: .3s;
+}
+
+.colorPreviewBack {
+    padding: 1em;
+    position: relative;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 2em;
+    height: 2em;
+    transition: .3s;
+}
+
+.generalContainer {
+    list-style: none;
+    display: flex;
+}

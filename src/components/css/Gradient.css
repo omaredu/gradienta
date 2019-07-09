@@ -1,0 +1,22 @@
+.like {
+    transition: .1s;
+}
+
+.like:hover {
+    color: #e41749;
+}
+
+.coloraReel {
+    list-style: none;
+    display: flex;
+    position: absolute;
+    margin: 1.5em;
+}
+
+.likesCounter {
+    position: absolute;
+    margin: 1.9em;
+    right: 2em;
+    color: rgba(158, 158, 158, 0.5);
+    text-align: right;
+}

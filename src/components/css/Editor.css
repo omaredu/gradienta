@@ -1,0 +1,13 @@
+.previewContainer {
+    padding: 1em;
+    margin-left: 1em;
+    margin-top: 3em;
+}
+
+.previewContainer a {
+    margin: 1em;
+}
+
+.editorSample {
+    transition: .3s;
+}
