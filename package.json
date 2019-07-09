@@ -2,12 +2,14 @@
   "name": "gradienta",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Omaredu.github.io/gradienta/",
   "dependencies": {
     "@babel/runtime": "^7.4.5",
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-regular-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
+    "gh-pages": "^2.0.1",
     "masonry-layout": "^4.2.2",
     "react": "^16.8.6",
     "react-clipboard.js": "^2.0.13",
@@ -21,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
