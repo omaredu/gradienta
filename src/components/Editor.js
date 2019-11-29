@@ -6,7 +6,7 @@ import { BlockPicker } from 'react-color'
 import './css/Editor.css'
 import Button from './Button';
 
-const apiUrl = "http://gradienta-color.herokuapp.com/api/gradient"
+const apiUrl = "https://gradienta-color.herokuapp.com/api/gradient"
 
 export default class Editor extends Component {
     state = {

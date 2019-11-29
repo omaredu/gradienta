@@ -5,7 +5,7 @@ import Masonry from 'masonry-layout'
 import Gradient from './Gradient'
 //import gradients from './test/gradients.json'
 
-const apiUrl = "http://gradienta-color.herokuapp.com/api/gradient"
+const apiUrl = "https://gradienta-color.herokuapp.com/api/gradient"
 
 export default class Gradients extends Component {
 
